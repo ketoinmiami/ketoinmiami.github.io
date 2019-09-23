@@ -1,3 +1,9 @@
+---
+title: Keto in Miami
+subtitle: All about keto foods, restaurants, and general living in the Miami / South Florida area.
+layout: page
+---
+
 ## Keto in Miami
 
 You can use the [editor on GitHub](https://github.com/ketoinmiami/ketoinmiami.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
