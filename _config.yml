@@ -3,6 +3,8 @@ remote_theme: chrisrhymes/bulma-clean-theme
 title: Keto in Miami
 description: All about keto foods, restaurants, and general living in the Miami / South Florida area.
 
+footer_menu: footer
+
 plugins:
   - jekyll-sitemap
 
