@@ -2,5 +2,9 @@
 remote_theme: chrisrhymes/bulma-clean-theme
 title: Keto in Miami
 description: All about keto foods, restaurants, and general living in the Miami / South Florida area.
+
+plugins:
+  - jekyll-sitemap
+
 twitter_username: ketoinmiami
 github_username:  ketoinmiami
