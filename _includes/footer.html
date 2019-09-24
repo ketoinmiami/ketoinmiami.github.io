@@ -1,9 +1,24 @@
 
 <footer class="footer">
-  <div class="content has-text-centered">
-    <p>
-      <a href="https://twitter.com/Keto_Miami?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @Keto_Miami</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-    </p>
+  <div class="container">
+
+    {% if site.footer_menu %}
+      <div class="columns is-multiline">
+          {% for item in site.data[site.footer_menu] %}
+          <div class="column has-text-centered">
+              <div>
+                  <a href="{{ item.link | prepend: site.baseurl }}" class="link">{{ item.name }}</a>
+              </div>
+          </div>
+          {% endfor %}
+      </div>
+    {% endif %}
+
+    <div class="content is-small has-text-centered">
+      <p>
+        <a href="https://twitter.com/Keto_Miami?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @Keto_Miami</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+      </p>
+    </div>
   </div>
 </footer>
 
