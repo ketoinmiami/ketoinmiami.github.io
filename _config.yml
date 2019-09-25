@@ -1,14 +1,21 @@
 #theme: jekyll-theme-cayman
+#TODO update theme to run locally
+
 remote_theme: chrisrhymes/bulma-clean-theme
 title: Keto in Miami
 description: All about keto foods, restaurants, and general living in the Miami / South Florida area.
 
-#footer_menu: footer
+# Don't add dates to blog posts
 permalink: none
 
+# Pagination settings
+paginate: 5
+paginate_path: "/blog/page:num"
 
+# Sitemap plugin for better SEO
 plugins:
   - jekyll-sitemap
 
+# hopefully these will link somewhere
 twitter_username: ketoinmiami
 github_username:  ketoinmiami
