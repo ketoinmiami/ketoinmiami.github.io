@@ -1,0 +1,6 @@
+#!/bin/bash
+# Use exiftool to clean up image metadata
+
+rights="©2019 Keto in Miami, all rights reserved"
+
+echo exiftool -overwrite_original -rights=\"$rights\" -CopyrightNotice=\"$rights\" -XMP-dc:Creator=\"Keto in Miami\" \"-gps*=\" $1
