@@ -36,23 +36,47 @@ One of the lowest carb fruits that you can find, typically it's easier to find t
 
 ## Keto Snack Mix
 Price: $12.89
+Serving Size 1 oz / 24 servings per container
+Amount Per Serving
+Calories 170
+Fat 15g
+Net Carbs 2g
+Protein 7g
+
+Ingredients: Almonds, Pepitas, Dried Cheddar Cheese, Pecans, Macadamia Nuts, Sunflower Seeds...
 
 Although it's easy enough to make your own Keto friendly trail mix, something's to be said for having a giant convenient snacking bag.
 
 ## Dark Chocolate Nuggets - Coconut + Super Seeds
-Price:
+Price: $10.69
+Serving Size 1/3 cup / 28 servings per container
+Amount Per Serving
+Calories 100
+Fat 8g
+Net Carbs 4g
+Protein 2g
+
+Ingredients: Organic Dark Chocolate, Organic Coconut, Organic Pumpkin Seeds, Organic Sunflower Seeds, Organic Coconut Flour, Organice Cane Sugar, Organic Brown Rice Syrup, Organic Chia Seeds, Sea Salt.
 
 This is soo good that the Mrs. told me to get rid of it in the house. Although it's not labeled for Keto specifically, net carbs only runs XX. Great for a treat, terrible when you're hungry!
 
 ## Lankanto Monkfuit Sweetner
-Price:
+Price: $8.99
+Serving Size 1 teaspoon / 200 servings per container
+Amount Per Serving
+Calories 0
+Fat 0g
+Net Carbs 0g
+Protein 0g
 
-Although MOnkfruit is prominently written on the label, looking at the ingredients list shows that this mostly Erythritol with some Monkfruit instead of the other way around. Nevertheless, this is a good alternative to having liquid stevia. Will probably do a more in-depth review on this later.
+Ingredients: Erythritol, Monk Fruit Extract
+
+Although MOnkfruit is prominently written on the label, looking at the ingredients list shows that this more Erythritol with some Monkfruit instead of the other way around. Nevertheless, this is a good alternative to having liquid stevia. Will probably do a more in-depth review on this later.
 
 
 ## Busseto California Snackin'
 
-Price:
+Price: $10.99
 ### Salami
 Serving Size 1oz / 1.5 servings per container
 Amount Per Serving
