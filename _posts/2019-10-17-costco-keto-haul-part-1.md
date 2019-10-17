@@ -1,21 +1,25 @@
 ---
 layout: post
 title:  "Costco Keto Haul! Part 1"
-date:   2019-10-05 11:00:00
+date:   2019-10-17 18:30:00
 author: keto_guy
 categories: 
 description: "Keto friendly foods found at Costco in Pembroke Pines"
 #image: /img/breakfast_bacon_eggs.jpg
 #hero_image: /img/breakfast_bacon_eggs.jpg
 hero_height: is-medium
-published: false
+published: true
 ---
 
 Who doesn't love Costco? Since doing Keto, Costco has been a part of our grocery regimen for getting meats (especially bacon!), cheeses, almond flour, and coffee.
 
 I've noticed recently that Costco has gradually become more and more Keto friendly. Today I wanted to cover a few other items that you may not be aware of that may be at your local Costco. The items here I found at the [Pembroke Pines Costco](https://www.costco.com/warehouse-locations/pembroke-pines-fl-742.html).
 
+Without further ado, here's some keto friendly items we've picked up.
+
 ## Land O Lakes Heavy Whipping Cream
+
+![Heavy Whipping Cream](/img/heavy-whipping-cream.jpg "Heavy Whipping Cream")
 
 Price: $3.99
 Serving Size 1 Tbps 15mL
@@ -29,12 +33,17 @@ This is a staple in many Keto recipies and in our cups of coffee. We usually alt
 
 ## Blackberries
 
+![Blackberries](/img/blackberries.jpg "Blackberries")
+
 Price: $3.99
 
 One of the lowest carb fruits that you can find, typically it's easier to find this in stock and at a lower price than your local Publix.
 
 
 ## Keto Snack Mix
+
+![Keto Snack Mix](/img/keto-snack-mix.jpg)
+
 Price: $12.89
 Serving Size 1 oz / 24 servings per container
 Amount Per Serving
@@ -48,6 +57,9 @@ Ingredients: Almonds, Pepitas, Dried Cheddar Cheese, Pecans, Macadamia Nuts, Sun
 Although it's easy enough to make your own Keto friendly trail mix, something's to be said for having a giant convenient snacking bag.
 
 ## Dark Chocolate Nuggets - Coconut + Super Seeds
+
+![Chocolate Nuggets](/img/chocolate-nuggets.jpg "Dark Chocolate Nuggets with Coconut")
+
 Price: $10.69
 Serving Size 1/3 cup / 28 servings per container
 Amount Per Serving
@@ -60,7 +72,10 @@ Ingredients: Organic Dark Chocolate, Organic Coconut, Organic Pumpkin Seeds, Org
 
 This is soo good that the Mrs. told me to get rid of it in the house. Although it's not labeled for Keto specifically, net carbs only runs XX. Great for a treat, terrible when you're hungry!
 
-## Lankanto Monkfuit Sweetner
+## Lankanto Monkfruit Sweetner
+
+![Monkfruit Sweetner](/img/monkfruit-sweetner.jpg "Monkfruit Sweetner")
+
 Price: $8.99
 Serving Size 1 teaspoon / 200 servings per container
 Amount Per Serving
@@ -71,10 +86,12 @@ Protein 0g
 
 Ingredients: Erythritol, Monk Fruit Extract
 
-Although MOnkfruit is prominently written on the label, looking at the ingredients list shows that this more Erythritol with some Monkfruit instead of the other way around. Nevertheless, this is a good alternative to having liquid stevia. Will probably do a more in-depth review on this later.
+Although Monkfruit is prominently written on the label, looking at the ingredients list shows that this more Erythritol with some Monkfruit instead of the other way around. Nevertheless, this is a good alternative to having liquid stevia. Will probably do a more in-depth review on this later.
 
 
 ## Busseto California Snackin'
+
+![Salami & Cheese Snack](/img/salami-cheese.jpg "Salami & Provolone Cheese Snack")
 
 Price: $10.99
 ### Salami
