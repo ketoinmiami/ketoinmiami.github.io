@@ -23,11 +23,12 @@ Without further ado, here's some keto friendly items we've picked up.
 
 Price: $3.99
 Serving Size 1 Tbps 15mL
-Amount Per Serving
-Calories 50
-Fat 5g
-Carbs <1g
-Ingredients: Heavy Cream, Skim Milk, 1% or less of: Mono and Diglycerides, Polysorbate 80, Carrageenan.
+Amount Per Serving|
+--- | ---:
+Calories|50
+Fat|5g
+Carbs|<1g
+Ingredients| Heavy Cream, Skim Milk, 1% or less of: Mono and Diglycerides, Polysorbate 80, Carrageenan.
 
 This is a staple in many Keto recipies and in our cups of coffee. We usually alternate between picking up heavy whipping cream at Costco or the local grocery store depending on the price.
 
