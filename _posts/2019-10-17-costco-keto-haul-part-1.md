@@ -77,7 +77,7 @@ Net Carbs | 4g
 Protein | 2g
 Ingredients | Organic Dark Chocolate, Organic Coconut, Organic Pumpkin Seeds, Organic Sunflower Seeds, Organic Coconut Flour, Organice Cane Sugar, Organic Brown Rice Syrup, Organic Chia Seeds, Sea Salt.
 
-This is soo good that the Mrs. told me to get rid of it in the house. Although it's not labeled for Keto specifically, net carbs only runs XX. Great for a treat, terrible when you're hungry!
+This is soo good that the Mrs. told me to get rid of it in the house. Although it's not labeled for Keto specifically, net carbs only runs 4g per serving. Great for a treat, terrible when you're hungry!
 
 ## Lankanto Monkfruit Sweetner
 
